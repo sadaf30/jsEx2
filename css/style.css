@@ -7,3 +7,63 @@
 body{
 	background-color: lemonchiffon;
 }
+h1{
+	text-align: center;
+	color: lightpink;
+	font-size: 40px;
+	font-family:arial black;
+	padding: 20px;
+	margin: 30px;
+}
+h2{
+	color: lightyellow;
+	font-size: 30px;
+	font-family: arial black;
+	text-align: center;
+}
+li{
+	color: #fff;
+	font-size: 30px;
+	font-family: arial;
+}
+.lbl{
+	
+	color: #fff;
+	font-size: 30px;
+	font-family: arial;
+	
+	}
+.inp{
+	padding: 30px;
+	padding-right: 40px;
+	font-size: 30px;
+	border: 2px solid powderblue;
+}	
+.frm{
+	
+	display: flex;
+	justify-content: center;
+	background-color: lightpink;
+	padding: 30px 0;
+	margin: 40px;
+	
+
+}
+.btn{
+	padding: 10px;
+	color: powderblue;
+	font-size: 30px;
+	font-family: arial black;
+	display: inline-block;
+	margin: 20px;
+	margin-left: 40%;
+
+	border: 2px solid powderblue;
+	background-color: #fff;
+}
+
+.sort{
+	background-color: powderblue;
+	padding:  50px;
+	margin: 40px;
+}
