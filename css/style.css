@@ -16,10 +16,13 @@ h1{
 	margin: 30px;
 }
 h2{
-	color: lightyellow;
+	color: lavender;
 	font-size: 30px;
 	font-family: arial black;
 	text-align: center;
+	font-weight: bolder;
+	font-size: 40px;
+
 }
 li{
 	color: #fff;
@@ -31,13 +34,14 @@ li{
 	color: #fff;
 	font-size: 30px;
 	font-family: arial;
+	font-weight: bold;
 	
 	}
 .inp{
 	padding: 30px;
 	padding-right: 40px;
 	font-size: 30px;
-	border: 2px solid powderblue;
+	border: 5px solid powderblue;
 }	
 .frm{
 	
@@ -58,7 +62,7 @@ li{
 	margin: 20px;
 	margin-left: 40%;
 
-	border: 2px solid powderblue;
+	border: 5px solid lightyellow;
 	background-color: #fff;
 }
 
@@ -67,3 +71,22 @@ li{
 	padding:  50px;
 	margin: 40px;
 }
+
+.close-todo{
+	display: inline-block;
+	margin-right: 10px;
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
